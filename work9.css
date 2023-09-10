@@ -1,0 +1,364 @@
+
+.heart{
+    position: relative;
+    width: 40rem;
+    height: 40rem;
+    top: 5rem;
+    left: 36rem;
+    box-sizing: border-box;
+}
+
+.row{
+    position: absolute;
+    top: 11rem;
+}
+.one{
+    height: 4rem;
+    width: 4rem;
+}
+
+#o{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#o1{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#o2{
+    background-color: maroon;
+}
+
+
+.rowtwo{
+    position: absolute;
+    top:6.5rem;
+    left: 5rem;
+}
+
+.sec{
+    height: 4rem;
+    width: 4rem;
+}
+
+#on{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#on1{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#on2{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#on3{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#on4{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#on5{
+    background-color: maroon;
+}
+
+.rowthree{
+    position: absolute;
+    bottom: 7rem;
+    right: 26rem;
+}
+
+.thir{
+    height: 4rem;
+    width: 4rem;
+}
+
+#oni{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#oni1{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#oni2{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#oni3{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#oni4{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#oni5{
+    background-color: maroon;
+
+}
+
+
+.rowfour{
+    position: absolute;
+    bottom: 2.5rem;
+    right: 21rem;
+}
+
+.four{
+    height: 4rem;
+    width: 4rem;
+}
+
+#oniv{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#oniv1{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#oniv2{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#oniv3{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#oniv4{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#oniv5{
+    background-color: maroon;
+
+}
+
+
+.rowfive{
+    position: absolute;
+    top:15.5rem;
+    right: 16rem;
+}
+
+.five{
+    height: 4rem;
+    width: 4rem;
+}
+
+#onive{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#onive1{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#onive2{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#onive3{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#onive4{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#onive5{
+    background-color: maroon;
+margin-bottom: 0.5rem;
+}
+
+#onive6{
+    background-color: maroon;
+}
+
+.rowsix{
+    position: absolute;
+    bottom: 2.5rem;
+    left: 25rem;
+}
+
+.fourb{
+    height: 4rem;
+    width: 4rem;
+}
+
+#onivb{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#onivb1{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#onivb2{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#onivb3{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#onivb4{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#onivb5{
+    background-color: maroon;
+
+}
+
+.rowseven{
+    position: absolute;
+    bottom: 7rem;
+    left: 30rem;
+}
+
+.thirb{
+    height: 4rem;
+    width: 4rem;
+}
+
+#onib{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#oni1b{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#oni2b{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#oni3b{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#oni4b{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#oni5b{
+    background-color: maroon;
+
+}
+
+.roweight{
+    position: absolute;
+    top:6.5rem;
+    left:35rem;
+}
+
+.secb{
+    height: 4rem;
+    width: 4rem;
+}
+
+#onb{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#on1b{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#on2b{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#on3b{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#on4b{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#on5b{
+    background-color: maroon;
+}
+
+.rownine{
+    position: absolute;
+    top: 11rem;
+    left: 40rem;
+}
+.oneb{
+    height: 4rem;
+    width: 4rem;
+}
+
+#ob{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+}
+
+#o1b{
+    background-color: maroon;
+    margin-bottom: 0.5rem;
+
+}
+
+#o2b{
+    background-color: maroon;
+}

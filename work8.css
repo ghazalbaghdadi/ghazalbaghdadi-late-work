@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    position: fixed;
+    width: 760px;
+    height: 680px;
+    background-color: rgb(192, 186, 186);
+    top: 6rem;
+    left: 33rem;
+    box-sizing: border-box;
+    border: 0.5rem rgb(221, 221, 221) solid;
+}
+
+.first{
+    width: 120px;
+    height: 130px;
+    display: inline-block;
+}
+
+#clo{
+    background-color: rgb(194, 188, 188);
+    position: absolute;
+}
+
+#clo2{
+    background-color: silver;
+
+}
+
+#clo3{
+    background-color: black;
+
+}
+
+#clo4{
+    background-color: silver;
+}
+
+#clo5{
+    background-color: black;
+}
+
+#clo6{
+    background-color: silver;
+}
+
+#clo7{
+    background-color: black;
+}
+.second{
+    width: 120px;
+    height: 130px;
+    display: inline-block;
+}
+
+#cl{
+    background-color: black;
+    position: absolute;
+}
+
+#cl2{
+    background-color: silver;
+
+}
+
+#cl3{
+    background-color: silver;
+
+}
+
+#cl4{
+    background-color: black;
+}
+
+#cl5{
+    background-color: silver;
+}
+
+#cl6{
+    background-color: black;
+}
+
+#cl7{
+    background-color: silver;
+
+}.third{
+    width: 120px;
+    height: 130px;
+    display: inline-block;
+}
+
+#c{
+    background-color: silver;
+    position: absolute;
+}
+
+#c2{
+    background-color: silver;
+
+}
+
+#c3{
+    background-color: black;
+
+}
+
+#c4{
+    background-color: silver;
+}
+
+#c5{
+    background-color: black;
+}
+
+#c6{
+    background-color: silver;
+}
+
+#c7{
+    background-color: black;
+}
+
+.fourth{
+    width: 120px;
+    height: 130px;
+    display: inline-block;
+}
+
+#o{
+    background-color:black;
+    position: absolute;
+}
+
+#o2{
+    background-color:black;
+
+}
+
+#o3{
+    background-color:silver;
+
+}
+
+#o4{
+    background-color: black;
+}
+
+#o5{
+    background-color: silver;
+}
+
+#o6{
+    background-color: black;
+}
+
+#o7{
+    background-color: silver;
+}
+
+.fifth{
+    width: 120px;
+    height: 130px;
+    display: inline-block;
+}
+
+#bb{
+    background-color: silver;
+    position: absolute;
+}
+
+#b2{
+    background-color: silver;
+
+}
+
+#b3{
+    background-color: black;
+
+}
+
+#b4{
+    background-color: silver;
+}
+
+#b5{
+    background-color: black;
+}
+
+#b6{
+    background-color: silver;
+}
+
+#b7{
+    background-color: black;
+}

@@ -1,0 +1,69 @@
+.flower{
+    position: relative;
+    top: 0;
+}
+#yellow{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    position: absolute;
+    left: 53rem;
+    top: 25rem;
+    background-color: yellow;
+    z-index: 3;
+}
+
+#green{
+position: absolute;
+top: 26rem;
+left: 54rem;
+height: 30rem;
+width: 1rem;
+background-color:  green;
+}
+
+#leaf{
+    position: absolute;
+    top: 40rem;
+    left: 46rem;
+    width: 8rem;
+    height: 8rem;
+    background-color:rgb(67, 235, 67);
+    border-radius: 0% 100% 0% 100%;
+}
+    
+.gol{
+position: absolute;
+top:0;
+width: 11rem;
+height: 11rem;
+background-color: red;
+}
+
+#one{
+    position:absolute;
+    top: 16rem;
+    left: 43rem;
+    border-radius: 0 100% 0 100%;
+}
+
+#two{
+    position: absolute;
+    top: 16rem;
+    left: 55rem;
+    border-radius: 100% 0 100% 0;
+}
+
+#three{
+    position:absolute;
+    top: 27rem;
+    left: 43rem;
+    border-radius: 100% 0 100% 0;
+}
+
+#four{
+    position: absolute;
+    top: 27rem;
+    left: 55rem;
+    border-radius: 0 100% 0 100% ;
+}
